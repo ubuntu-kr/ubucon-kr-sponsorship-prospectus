@@ -98,10 +98,10 @@ In addition to online-based activities such as running online forums and contrib
 We continue to interact with various overseas Ubuntu and open source communities, including Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, FOSS Nepal, Ubuntu India and FOSSASIA, and we also participate in UbuCon Asia, the premier event for Ubuntu community exchange in Asia, where we share our activities with each community.
 
 
-<div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 200px; ">
+<div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
   <img src="./assets/forum.png" style="flex: 1">
-  <img src="./assets/uca23.JPG" style="flex: 1">
-  <img src="./assets/uca24.jpg" style="flex: 1">
+  <img src="./assets/l10n.jpg" style="flex: 1">
+  <img src="./assets/uck24hallway.jpg" style="flex: 1">
 </div>
 
 
