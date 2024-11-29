@@ -40,38 +40,46 @@ paginate: true
 </style>
 
 ![w:200](./assets/logo.svg)
-# UbuCon Asia 2025
-August 30 - 31
-St. Xavier's College
-Kathmandu, Nepal
+# UbuCon Korea 2025
+August 9
+Microsoft Korea (13F)
+Seoul, South Korea
 **Sponsorship prospectus**
 
-<img src="./assets/xsc.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
 
 ---
 
 <!-- header: ![w:50](./assets/logo.svg) -->
-<!-- footer: https://2025.ubucon.asia | sponsorship@ubucon.asia -->
+<!-- footer: https://2025.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
 
-# About UbuCon Asia
+# About UbuCon(s) & Ubuntu Summit
 
-**UbuCon(s) (Ubuntu Conference)** are non-profit events organized by Ubuntu Communities worldwide. These events bring together hundreds of Open Source enthusiasts, users, developers, and contributors to share their stories and experiences regarding **Ubuntu** and relevant free and open source technologies for **servers, desktops, cloud computing, IoT, robotics, data science, AI/ML, and much more.**
+Today, there are two major annual events for Ubuntu, the most popular Linux distribution for desktops and servers, the IoT, cloud, AI/ML, and more, and for the Ubuntu community, which includes contributors and users of various Ubuntu projects around the world.
 
-In the spirit of promoting the love of Ubuntu and Open Source, **UbuCon Asia,** one of the regional UbuCon events **focusing specifically on the Asian region,** is organized annually by Ubuntu Communities and other free and open source communities across Asia. Following the success of previous editions in Seoul (South Korea), Surakarta (Indonesia), and Jaipur (India), we are pleased to announce that the 5th edition of UbuCon Asia will be hosted at **St. Xavier's College in Kathmandu, the cultural capital of Nepal.**
+The Ubuntu Summit, an annual event that brings together people from the global Ubuntu community to share various projects and practices in the Ubuntu ecosystem. The Ubuntu Conference (UbuCon), an annual event that focuses more on local Ubuntu communities and sharing Ubuntu practices and know-how from local community.
 
-As a non-profit event organized by volunteers without compensation or stable funding, we rely on sponsorships to host these events. Such events enable community members to learn, share, and grow together while meeting many of their peers in person, sometimes for the first time.
+The main difference between the two events is that Canonical, the creator of Ubuntu, is largely involved with organizing the Ubuntu Summit, while UbuCon is a community-driven event that is almost entirely organized by the community. These UbuCons are held in different regions within a continent or country, and today there are UbuCon @ SCALE, UbuCon Europe, UbuCon Latin America, and UbuCon Asia.  
+
+UbuCon Korea is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. UbuCon Korea 2023 was successfully held last year on September 9 at Microsoft Korea with 151 attendees, with the theme of "Ubuntu for Developer Productivity". Following the success of last year's event, UbuCon Korea 2023 will be held on August 10 at the same venue as last year's event, with a variety of programs organized around the theme of "Deploy with Ubuntu"!
+
 
 ## Event overview
 
-- **Event name:** UbuCon Asia 2025
-- **Dates:** August 30th - 31st
-- **Venue:** St. Xavier's College, Kathmandu, Nepal
-- **Participant scale:** Around 300 or more
-- **Organizer:** UbuCon Asia Committee, GNOME Nepal
+- **Name:** UbuCon Korea 2025
+- **Theme:** Deploy with Ubuntu
+- **Date:** August 9th, 2025 
+- **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F)
+- **Scale:** 150+ participants (Including speakers and staff)
+- **Host:** Ubuntu Korea Community
+- **Tickets**
+  - Standard (Paid)
+  - Individual patron/business (Paid)
+
 
 ---
 
