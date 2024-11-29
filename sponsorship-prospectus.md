@@ -300,23 +300,25 @@ Sponsor booths at the event are a great way to showcase your organization and en
 # Sponsorship package details
 
 ## Marketing
-**Basic**
-Before and after the event, we'll promote your sponsorship through a variety of community outreach and participant-targeted channels.
+**Basic:** Before and after the event, we'll promote your sponsorship through a variety of community outreach and participant-targeted channels.
 - Your sponsorship will be mentioned during opening and closing with your logo exposed
 - Post sponsor introductions and thank you post through the community's social media channels
 - Dedicate sponsor information page on our website
 
-**Email**
-A reminder email sent to attendees 1-3 days before the event starts, with a brief introduction or mention of the sponsor. Depending on your sponsorship level, your visibility in the body of the email will vary.
+**Email:** A reminder email sent to attendees 1-3 days before the event starts, with a brief introduction or mention of the sponsor. Depending on your sponsorship level, your visibility in the body of the email will vary.
 
-**Engagement**
-- We help sponsors interact with participants even after the event ends. If you don't request otherwise when registering as a sponsor, we can send a single email to participants with the text you requested.
+**Engagement:** We help sponsors interact with participants even after the event ends. If you don't request otherwise when registering as a sponsor, we can send a single email to participants with the text you requested.
 - At the time of sponsor registration, You may also choose to receive a list of participants who have given their consent to disclose their personal information to third parties instead of sending emails by us.
   - The items to be provided are the participant's name, affiliation, title (or profession), and email address. The information to be included in the privacy policy disclosed by the organizing committee through the website (who will receive the personal information, location (address), person in charge and contact information, purpose of use, and method of destruction upon expiration of the retention period) must be provided.
   - The retention period of the personal information received will be until September 9, 2025 (1 year) and will be described in the organizer's privacy policy.
 
 ## Swag giveaway
 If you'd like, you can give out sponsor swag (stickers, t-shirts, eco-bags, mugs, etc.) to participants. You can send a small amount for a raffle, or you can send enough for all participants. We'll let you know how to do this separately.
+
+<div style="display: flex; flex-direction: row;  height: 280px; ">
+  <img src="./assets/marketing.png" style="flex: 1">
+  <img src="./assets/swag.jpeg" style="flex: 1">
+</div>
 
 
 ---
