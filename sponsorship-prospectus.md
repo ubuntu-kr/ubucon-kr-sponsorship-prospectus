@@ -140,7 +140,7 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
 | **17:10** Closing (10min) | | |
 ---
 
-# Who attends UbuCon Asia
+# Who attends UbuCon Korea
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1">
   <p><b>Software Engineers</b><br/>System, Application (Web, Desktop, etc), Embedded (IoT, Robotics, etc), Kernel & Operating Systems</p>
@@ -171,7 +171,23 @@ title Participants by profession (2024)
 </pre>
 
 ---
-# Become a sponsor!
+# What sponsorship means and its benefits
+## Become a sponsor
+As a non-profit event, UbuCon Korea is organized by a volunteer organizing committee without financial compensation and relies on sponsorships and individual patrons to make the event happen.
+
+Through this event, we hope to bring together a wide range of people, including those who are interested in Ubuntu, those who use it in the field, and those who contribute to the project, as well as collaborate with other open source communities to strengthen our network and reach a wider audience. Securing sufficient funding is crucial to achieving this goal.
+
+By joining the event as a sponsor, you'll not only help us achieve our goals, but you'll also show your sincere support for the Ubuntu community. With our sponsorship packages, you'll be able to enhance your branding, promote your company or service to our audience, and engage with attendees to potentially recruit new developers or engineers.
+
+## Benefits for sponsors
+- Meet developers and engineers who might want to join your team
+  - About 60% of last year's attendees were in IT roles, including software engineers, DevOps engineers, web developers, and systems engineers.
+- Empower  your branding with attendees.
+  - Your logo will be exposed on banners, websites, videos, and more.
+- Interact with the Ubuntu community face-to-face
+  - UbuCon Korea is the most attended Ubuntu community event of the year.
+  - You can also engage more closely with attendees through sponsored sessions and booths.
+
 
 ---
 
@@ -198,38 +214,35 @@ title Participants by profession (2024)
 </div>
 
 ---
-<style scoped>
-    table {
-        font-size: 14px;
-    }
-</style>
+
 # Sponsorship packages
 
 | **Package** | Diamond | Gold | Silver | Bronze | Supporter  |
 | --- | --- | --- | --- | --- | --- |
-| **Slots** | 1 | 2 | 6 | ∞ | ∞ |
-| Price(USD) | 10,000  | 6,000 | 3,500 | 1,600 | 500 - 800 |
-| Price(NPR)<sup>*0</sup> | TBD  | TBD | TBD | TBD | TBD |
-| **Logo exposures** || |
-| Website | XL | L | M | S | S |
-| Plenary banner<sup>*1</sup> | XL | L | M | S | XS |
-| Stage (or Podium) banner | Yes | Yes | Yes | No | No |
-| Nametag | Yes | Yes | No | No | No |
-| Video banner<sup>*2</sup> | Yes | Yes | No | No | No |
-| Video sponsor information scene<sup>*3</sup> | Yes | Yes | Yes | Yes | Yes |
-| T-Shirt (or other swag if no T-shirt) | Yes | Yes | No | No | No |
-| **Recognition** || |
-| Recognition posting on social media | Yes | Yes | Yes | Yes | Yes |
-| Recognition posting on blog | Yes | Yes | No | No | No |
-| Mention during opening and closing session | Yes | Yes | Yes | Yes | Yes |
-| **Engagements** || |
-| Sponsored session<sup>*4</sup> | A Keynote<small>(30min)</small><br> + A Workshop<small>(90min)</small>,<br> A Talk<small>(30min)</small><br> or A BoF<small>(40-50min)</small> | A Talk<small>(30min)</small> or A Workshop<small>(90min)</small> | A Talk<small>(30min)</small> | A Lightning talk(5min) <small>(Limited FCFS)</small> | No |
-| Sponsor booth | L | M | S<sup>*5</sup> | S<sup>*5</sup> <small>(500 USD Add-on FCFS)</small> | No |
-| Promotion video during breaks | 3min | 2min | 1min | No | No |
-| Distribute Promotional Material  | Handout on attendee check-in + At booth | Handout on attendee check-in + At booth | At booth | At booth <small>(If booth allocated)</small> | No |
-| Promotional Email to all Attendees<sup>*5</sup> | Yes (One-time with custom content) | Yes (One-time with custom content) | Yes (One-time with custom content) | No | No |
+| **Slots** | 1 | 1 | 2 | 4 | ∞ |
+| Price(KRW)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 |
+| Price(USD) | 4,592  | 2,296 | 1,224  | 612 | 382 |
+| **Logo exposures** |  |  |  |  |  |
+| Basic | O | O | O | O | O |
+| Recordings & Stage(or Podium) | O | O | X | X | X |
+| Badges & Swags | O | O | X | X | X |
+| **Tickets**  | Free 5 tickets | Free 4 tickets | Free 3 tickets | Free 2 tickets | 10% off for 5 tickets |
+| **Sponsored session**<sup>*1</sup> | Keynote & 1 Session<sup>*2</sup> |1 Session<sup>*3</sup> | Lightning talk (5min) | X | X |
+| **Sponsor booth** | 1.8m width | 1.8m width | 1.8m width<sup>*4</sup> | X | X |
+| **Marketing** |  |  |  |  |  |
+| Basic | O | O | O | O | O |
+| Marketing (Email) | Name+URL+Logo | Name+URL+Logo | Name+URL | Name+URL | Mention name only |
+| Marketing (Engagement) | O | O | O | O | X |
+| **Swag giveaway** | O | O | O | O | O |
 
-Refer to next page for footnotes and additional sponsorship oppertunities.
+**Footnotes**
+- *0: VAT 10% is not included in this price.
+- *1: Sponsored sessions are also subject to Code of Conduct compliance and content team review, with no exceptions, and must be related to Ubuntu or related open source technologies. In addition, blatant marketing and sales pitches are prohibited. 
+- *2: Choose between a Workshop, a Talk and a BoF Session.
+- *3: Choose between a Talk and a BoF Session.
+- *4: 1 slot available, and served as an Add-on with 200,000 KRW fee. (Approx 153 USD, VAT not included) First come first serve.
+
+
 
 ---
 # Sponsorship packages
