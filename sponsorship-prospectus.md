@@ -83,7 +83,7 @@ UbuCon Korea is the largest domestic Ubuntu community event of the year, bringin
 
 ---
 
-# The Ubuntu Project and Its Community
+# About Ubuntu Korea Community
 
 <!-- Text below are draft. You may improve it if you want -->
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 200px; ">
@@ -92,28 +92,21 @@ UbuCon Korea is the largest domestic Ubuntu community event of the year, bringin
   <img src="./assets/uca24.jpg" style="flex: 1">
 </div>
 
-## Ubuntu
+## About the community
+Started in 2005, the Ubuntu Korea Community is a place for Korean Ubuntu users and contributors, and is also an official Ubuntu local community verified by the Ubuntu Local Community Council. To expand the popularity of Ubuntu and related open sources in Korea, the community operates forums for Ubuntu-related Q&A, translates various Ubuntu packages into Korean, runs a Korean Ubuntu wiki, and works on documentation. We also hold various offline events such as general meetings, regular seminars, workshops, group study activities, and UbuCon for offline exchanges among community members.
 
-Ubuntu, co-developed by Ubunu Community with people from worldwide and Canonical, stands as the world's leading open source linux based operating system. With its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
+## Activities to expand Ubuntu adoption and improve usability
+Our online forum, which has been with the community since its beginning, is still live and has recently been revamped with Discourse to make it more user-friendly. Multilingual support for the various packages available in Ubuntu is maintained by local communities in each country. Our community also has a translation team, which continues to contribute to Korean support for Ubuntu. When necessary, we translate documents of interest to many people, such as Ubuntu release notes, into Korean, making it easier for people who are not familiar with English to access information about Ubuntu.
 
-## Ubuntu Community
+## Host a variety of in-person events
+In addition to online-based activities such as running online forums and contributing to Ubuntu projects. We periodically organize offline events for community members to meet and interact. These events include regular general meetings (within three months after closing finances each year), regular seminars, hands-on workshop events, group study activities, and the annual UbuCon, a large-scale event that brings together Ubuntu users and contributors from various fields.
 
-The Ubuntu community is an international network united by our name's meaning - "humanity towards others." With millions of users and thousands of contributors worldwide, we shape the future of computing through open collaboration and freely shared work. Our diverse community includes developers, engineers, system administrators, researchers, artists, writers, and more all working together to make technology accessible to everyone.
-
-Our community thrives through:
-- Active participation across Ubuntu Discourse, Launchpad, GitHub, Matrix chat and more
-- Local Community (LoCo) teams advocating across regions
-- Technical support and knowledge sharing on Ask Ubuntu and Ubuntu Forums
-- Leadership opportunities through Ubuntu Membership and governance
-- Commitment to our Code of Conduct and our mission
-
-## UbuCon Asia
-
-UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By sponsoring UbuCon Asia, you're directly supporting Ubuntu's mission while connecting with a dynamic community that drives innovation across Asia and beyond.
+## Engaging with international communities
+We continue to interact with various overseas Ubuntu and open source communities, including Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, FOSS Nepal, Ubuntu India and FOSSASIA, and we also participate in UbuCon Asia, the premier event for Ubuntu community exchange in Asia, where we share our activities with each community.
 
 
 ---
-# Host city & The venue
+# The Venue & Proposed Timetable
 <hr/>
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <div style="flex: 1">
