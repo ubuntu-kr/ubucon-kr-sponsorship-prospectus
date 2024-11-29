@@ -245,24 +245,26 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 
 
 ---
-# Sponsorship packages
-## Footnotes
+# How to become a sponsor
 
-- *0: Price in Nepalese Rupees (NPR) is for business with primary office in Nepal.
-- *1: A large size banner installed in reception area usually or enterance of the venue that number of attendees can take photo with banner as backdrop.
-- *2: Banner of both live streams and video recordings if sessions will be streams or just on video recordings if not.
-- *3: Duration of Scene will be around a few seconds in the video or live streams. 
-- *4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
-- *5: Depending on logistics availability, this could be Booth with Size M but with located in less accessible area.
-- *6: If sponsor desires, this could be replaced with "List of participants data with names, affiliation, job profession and email address". Only data from attendees opt-in to provide their data to sponsors during registration will be provided to sponsors. Attendees will be also informed about data provision to sponsors through registration form and also privacy policy if available.
+## Choose your sponsorship package
+Please select your preferred sponsorship package from the ones listed above and submit the sponsorship application form. Once confirmed, we will proceed with the registration process if a slot is available. If you would like to adjust the details of your package, or if you would like to make an in-kind contribution, such as swags, equipment, or services needed to run the event, you can do so in consultation with the organizing committee. For in-kind sponsorships, we will provide benefits based on the value in cash.
 
-## Additional sponsorship oppertunities
+## Issue required documents for registration 
+- Quotation - In case you need to submit a purchase order (PO) in your company and get approval.
+- Sponsorship agreement - Complete the event sponsorship agreement as required by the sponsor. Can be omitted if not required by the sponsor.
+- Tax Invoice(or Invoice) - After completion of the contract, or if the contract is omitted, we will issue a tax invoice under the name of "Ubuntu Korea Community" after completion of the sponsor's internal approval process. If you are an overseas corporation, an invoice will be issued through our fiscal host  instead.
 
-You may also become our in-kind sponsor by sponsoring coffee break, lunch, conference dinner, day trip, diversity initiatives and more! We’ll work with you to put together the right UbuCon Asia package for your company or organization. These additional opportunities may be sponsored separately or added on to a sponsorship package.
+## Make payment
+After the tax invoice (or invoice) is issued, please deposit the sponsorship fee including 10% VAT to the bank account provided, and the sponsor registration will be completed after confirmation. If a contract has been signed, the deadline will be as specified in the contract. If a contract has skipped, the deadline will be 2 weeks from the date of the tax invoice (or invoice) issued. If you need to extend the deadline, it can be extended by agreement. The deposit must be completed no later than 3 weeks before the start of the event.
 
-If there are no sponsorship packages that fits your budget and needs, We're also open to discuss adjust existing package or designing package tailored for you.
+## Once registration is complete… 
+Once you have registered as a sponsor, your logo will be displayed on the website and you will be informed about access to benefits such as sponsored sessions. Your sponsorship will be used to cover the costs of installing venue facilities, catering, badges and swags such as stickers and T-shirts, catering for participants, travel grants speakers/volunteers/organizing committee members from non-capital areas, travel grants for selected participants who apply for the grants, and rental of video streaming and recording equipment. Any funds left over after use will be utilized for community management costs, such as tax agent fees.
 
-Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) to discuss such oppertunities! 
+## Comply with Ubuntu Code of Conduct
+At all events organized by the Ubuntu Korean Community, we ask all participants to follow the "Ubuntu Code of Conduct" in order to create a safe environment where all participants are treated with respect. This also applies to sponsors, without exception. Please read the full text of the Code of Conduct and abide by it.
+https://ubuntu.com/community/ethos/code-of-conduct 
+
 
 ---
 
@@ -283,12 +285,12 @@ Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) t
 
 Thank you for consider sponsoring our event.
 For inquires and securing sponsorship,
-Contact sponsorship team at sponsorship@ubucon.asia 
+Contact sponsorship team at sponsorship@ubuntu-kr.org 
 
 More details on this event can be found at
-https://2025.ubucon.asia
+https://2025.ubuntu-kr.org
 
-<img src="./assets/xsc.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
 <!-- footer: false -->
