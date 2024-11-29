@@ -1,0 +1,66 @@
+/* @theme ubucon */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+section {
+  width: 210mm;
+  height: 297mm;
+  font-family: "Ubuntu", sans-serif;
+  background-image: url(https://assets.ubuntu.com/v1/2adade55-suru-corner-fan--bottom-0000_light.jpg);
+  background-position: bottom right;
+  background-size: contain;
+  background-color: #f3f3f3;
+  background-repeat: no-repeat;
+  background-size: 30rem 20rem;
+  font-size: 16px;
+  color: black;
+  padding: 40px;
+  
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+th, td {
+  border-top: 1px dashed black;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 30px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 40px;
+}
+
+a {
+  color: black;
+  text-decoration-style: dotted;
+}
+
+.imgrow {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-height: 20%;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgrow img {
+  flex: 1 1 0;
+  margin: 10px;
+  max-width: 30%;
+}
