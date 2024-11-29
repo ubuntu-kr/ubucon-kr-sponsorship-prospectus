@@ -142,31 +142,53 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
 
 # Who attends UbuCon Korea
 <div style="display: flex; flex-direction: row;">
-  <div style="flex: 1">
-  <p><b>Software Engineers</b><br/>System, Application (Web, Desktop, etc), Embedded (IoT, Robotics, etc), Kernel & Operating Systems</p>
-  <p><b>Academic & Other</b><br/>Students (IT related majors), Professors, Researchers, Analysts, Media, Marketing, Enterprisers</p>
+  <div style="flex: 1; padding: 10px;">
+  <p><b>Software Engineers</b><br/>Web (Frontend, Backend), Embedded & IoT, OS & System & Kernel, Desktop Applications, Robotics</p>
+  <p><b>Academic & Other</b><br/>Students (Mostly IT related majors), Professors, Researchers, Sales Manager, Enterprisers</p>
   </div>
-  <div style="flex: 1">
-  <p><b>IT Infra & Operations</b><br/>SRE, SysAdmins, Solution Architects, DevOps, Cloud</p>
-  <p><b>Data & AI</b><br/>Data Engineers, Data Scientists, DBA, AI/ML Engineers</p>
-  <p><b>Community & Leadership</b><br/>Community Managers, DevRel, Technical Managers, OSPO Teams</p>
+  <div style="flex: 1; padding: 10px;">
+  <p><b>IT Infra & Operations</b><br/>Cloud Engineer, DevOps, SRE, Solutions Architect, Support Engineer, SysAdmin</p>
+  <p><b>Data & AI</b><br/>Data Engineers, Data Scientists, AI/ML Engineers, Data Analysts</p>
+  <p><b>Community & Marketing</b><br/>Community Managers, Developer Relations, Marketing Managers</p>
   </div>
 </div>
 
 ## Highlights from last year
 <div style="display: flex; flex-direction: row;">
-  <p  style="flex: 1"><b>Total ~300</b><br>Participants</p>
-  <p  style="flex: 1">Participants from <br><b>9 countries</b></p>
-  <p  style="flex: 1">Session proposals<br><b>54 received</b></p>
-  <p  style="flex: 1"><b>30 Speakers</b><br>in total</p>
+  <p  style="flex: 1"><b>173</b><br>Registrations</p>
+  <p  style="flex: 1"><b>151</b><br>Attendees</p>
+  <p  style="flex: 1"><b>18</b><br>Sessions</p>
+  <p  style="flex: 1"><b>~76%</b><br>First time<br>attendee</p>
+  <p  style="flex: 1"><b>50%+</b><br>2 Years+<br>career</p>
 </div>
 <pre class="mermaid mermaid-100h">
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
 pie showData
 title Participants by profession (2024)
-    "Students" : 50
-    "Web Developer" : 60
-    "DevOps Engineer" : 30
-    "IoT Engineer" : 30
+    "Software Engineer(Web Backend)" : 20
+    "Software Engineer(Web Frontend)" : 8
+    "Software Engineer(Embedded & IoT)" : 4
+    "Software Engineer(OS, System & Kernel)" : 5
+    "Software Engineer(Desktop Application)" : 7
+    "Software Engineer(Robotics)" : 10
+    "Cloud Engineer": 19
+    "DevOps Engineer": 9 
+    "SRE": 4
+    "Support Engineer": 2
+    "Solutions Architect": 3
+    "AI/ML Engineer": 3
+    "Researcher (Institute)": 2
+    "Researcher (Enterprise)": 4
+    "Students (IT majors)": 33
+    "Students (Other majors)": 6
+    "Teenagers": 5
+    "Education": 4
+    "Community Manager": 4
+    "Marketing Manager": 7
+    "Officials": 5
+    "Enterprisers": 2
+    "Etc": 7
+
 
 </pre>
 
