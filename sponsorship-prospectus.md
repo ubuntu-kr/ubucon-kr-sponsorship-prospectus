@@ -279,6 +279,12 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 - **Recordings & Stage(or Podium):** Your logo will be also exposed on banner areas of each session recordings, and banners inside the conference room which will be installed next to the stage.
 - **Badges & Swags:** Your logo will be also exposed on badges and swags (such as T-shirts) that all participants will get. Badges are the most frequent and effective way to expose your logo, as they are worn by participants at all times during the event, and swags allow for logo exposure even after the event.
 
+<div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
+  <img src="./assets/photowall.jpg" style="flex: 0.9">
+  <img src="./assets/booth.jpg" style="flex: 0.9">
+  <img src="./assets/sponsored_session.jpg" style="flex: 1.2">
+</div>
+
 ## Tickets
 As a token of our appreciation, we'll provide free or discounted tickets based on your sponsorship level. You'll be able to attend the event with your sponsored ticket and easily interact with attendees.
 
