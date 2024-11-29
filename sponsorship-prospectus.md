@@ -195,7 +195,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 <div class="imgrow">
   <img src="./assets/sponsor_logos/canonical.svg">
   <img src="./assets/sponsor_logos/onlyoffice.svg">
-  <img src="./assets/sponsor_logos/fossunited.svg">
+  <img src="./assets/sponsor_logos/ahnlabcloudmate.svg">
 </div>
 <div class="imgrow">
   <img src="./assets/sponsor_logos/naver_cloud.png">
@@ -205,12 +205,19 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 <div class="imgrow">
   <img src="./assets/sponsor_logos/whatap.png">
   <img src="./assets/sponsor_logos/nhncloud.png">
-  <img src="./assets/sponsor_logos/nevacloud.png">
+  <img src="./assets/sponsor_logos/eventus.svg">
 </div>
 <div class="imgrow">
-  <img src="./assets/sponsor_logos/biznet_giocloud.png">
-  <img src="./assets/sponsor_logos/idnic.png">
-  <img src="./assets/sponsor_logos/ahnlabcloudmate.svg">
+  <img src="./assets/sponsor_logos/grometric.svg">
+  <img src="./assets/sponsor_logos/OSCKorea.svg">
+  <img src="./assets/sponsor_logos/hanbit.svg">
+</div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/inflearn.svg">
+  <img src="./assets/sponsor_logos/elastic.svg">
+</div>
+<div class="imgrow">
+  
 </div>
 
 ---
@@ -285,7 +292,8 @@ https://ubuntu.com/community/ethos/code-of-conduct
 
 Thank you for consider sponsoring our event.
 For inquires and securing sponsorship,
-Contact sponsorship team at sponsorship@ubuntu-kr.org 
+Contact sponsorship team at
+sponsorship@ubuntu-kr.org 
 
 More details on this event can be found at
 https://2025.ubuntu-kr.org
