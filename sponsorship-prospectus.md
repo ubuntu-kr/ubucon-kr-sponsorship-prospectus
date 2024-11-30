@@ -1,5 +1,6 @@
 ---
 marp: true
+title: UbuCon Korea 2025 Sponsorship prospectus
 theme: ubucon
 paginate: true
 ---
