@@ -160,6 +160,7 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
   <p  style="flex: 1"><b>18</b><br>Sessions</p>
   <p  style="flex: 1"><b>~76%</b><br>First time<br>attendee</p>
   <p  style="flex: 1"><b>50%+</b><br>2 Years+<br>career</p>
+  <p  style="flex: 1"><b>60%+</b><br>IT related<br>profession</p>
 </div>
 <pre class="mermaid mermaid-100h">
 %%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
@@ -201,15 +202,44 @@ Through this event, we hope to bring together a wide range of people, including 
 
 By joining the event as a sponsor, you'll not only help us achieve our goals, but you'll also show your sincere support for the Ubuntu community. With our sponsorship packages, you'll be able to enhance your branding, promote your company or service to our audience, and engage with attendees to potentially recruit new developers or engineers.
 
-## Benefits for sponsors
-- Meet developers and engineers who might want to join your team
-  - About 60% of last year's attendees were in IT roles, including software engineers, DevOps engineers, web developers, and systems engineers.
-- Empower  your branding with attendees.
-  - Your logo will be exposed on banners, websites, videos, and more.
-- Interact with the Ubuntu community face-to-face
-  - UbuCon Korea is the most attended Ubuntu community event of the year.
-  - You can also engage more closely with attendees through sponsored sessions and booths.
-
+## Why sponsor
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1; padding-right: 10px;">
+  <p>
+    <img src="./assets/icons/target.svg" style="height: 40px"/><br/>
+    <b>Targeted audience</b><br/>
+    A good opportunity to boost leads through targeted marketing with most of our audience from tech industry.
+  </p>
+  <p>
+    <img src="./assets/icons/talent.svg" style="height: 40px"/><br/>
+    <b>Talent acquisition</b><br/>
+    Recruit the brightest minds in the industry to fill your open positions.
+    60%+ of our attendees last year were with IT related professions.
+  </p>
+  <p>
+    <img src="./assets/icons/bullhorn.svg" style="height: 40px"/><br/>
+    <b>Empower your branding</b><br/>
+    Your logo will be exposed on banners, websites, videos as well as our media coverages.
+  </p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+  <p>
+    <img src="./assets/icons/present.svg" style="height: 40px"/><br/>
+    <b>Showcase products and services</b><br/>
+    Showcase your innovative products and service face-to-face with your potential and existing customers and receive valuable feedback. 
+  </p>
+  <p>
+    <img src="./assets/icons/speak.svg" style="height: 40px"/><br/>
+    <b>Establish thought leadership</b><br/>
+    Showcase your expertise on Ubuntu and its ecosystem and educate the community about your organization’s products, services and open source strategies.
+  </p>
+  <p>
+    <img src="./assets/icons/opensource.svg" style="height: 40px"/><br/>
+    <b>Support Open source and Community</b><br/>
+    Sponsoring our event is one of the best ways to show your sincere and support to open source and community.
+  </p>
+  </div>
+</div>
 
 ---
 
