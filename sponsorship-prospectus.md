@@ -44,9 +44,9 @@ paginate: true
 # UbuCon Korea 2025
 August 9
 Microsoft Korea (13F)
-Seoul, South Korea
 **Sponsorship prospectus**
 
+<img src="./assets/UbuntuKrLogo.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
 <img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
@@ -399,6 +399,7 @@ sponsorship@ubuntu-kr.org
 More details on this event can be found at
 https://2025.ubuntu-kr.org
 
+<img src="./assets/UbuntuKrLogo.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
 <img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
