@@ -45,7 +45,8 @@ paginate: true
 2025년 8월 9일
 한국마이크로소프트 (13F)
 **후원 제안서**
-<img src="./assets/UbuntuKrLogoKr.svg" style="margin-top: 10px; height: 50px;"/>
+
+<img src="./assets/UbuntuKrLogoKr.svg" style="height: 50px;"/>
 
 <img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 

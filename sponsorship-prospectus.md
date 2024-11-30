@@ -46,7 +46,8 @@ August 9
 Microsoft Korea (13F)
 **Sponsorship prospectus**
 
-<img src="./assets/UbuntuKrLogo.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
+<img src="./assets/UbuntuKrLogo.svg" style="height: 50px;"/>
+
 <img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
