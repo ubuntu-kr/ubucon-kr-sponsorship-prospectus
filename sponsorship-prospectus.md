@@ -268,9 +268,9 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
   <img src="./assets/sponsor_logos/inflearn.svg">
   <img src="./assets/sponsor_logos/elastic.svg">
 </div>
-<div class="imgrow">
-  
-</div>
+
+**More then half** of our past sponsors already sponsored our evnet **twice or more.**
+
 
 ---
 
