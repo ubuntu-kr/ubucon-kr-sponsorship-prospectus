@@ -57,15 +57,15 @@ Seoul, South Korea
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
 
-# About UbuCon(s) & Ubuntu Summit
+# About Ubuntu & UbuCon Korea
 
-Today, there are two major annual events for Ubuntu, the most popular Linux distribution for desktops and servers, the IoT, cloud, AI/ML, and more, and for the Ubuntu community, which includes contributors and users of various Ubuntu projects around the world.
+**Ubuntu**, co-developed by Ubunu Community with people from worldwide and Canonical, stands as the world's leading open source linux based operating system. While Ubuntu started as easy to use linux desktop 20 years ago, Today, With its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
 
-The Ubuntu Summit, an annual event that brings together people from the global Ubuntu community to share various projects and practices in the Ubuntu ecosystem. The Ubuntu Conference (UbuCon), an annual event that focuses more on local Ubuntu communities and sharing Ubuntu practices and know-how from local community.
+Today, there are **two major annual events** that brings together people from the global Ubuntu community to share various projects and practices in the Ubuntu ecosystem: **UbuCon**(s) across different regions and **Ubuntu Summit.**
 
-The main difference between the two events is that Canonical, the creator of Ubuntu, is largely involved with organizing the Ubuntu Summit, while UbuCon is a community-driven event that is almost entirely organized by the community. These UbuCons are held in different regions within a continent or country, and today there are UbuCon @ SCALE, UbuCon Europe, UbuCon Latin America, and UbuCon Asia.  
+The main difference between the two events is that Canonical, the creator of Ubuntu, is largely involved with organizing the Ubuntu Summit, while UbuCon is a community-driven event that is **soley organized by the community.** These UbuCons are held in different regions within a continent or country, and today there are UbuCon NA @ SCaLE, UbuCon Europe, UbuCon Latin America, UbuCon Portugal and UbuCon Asia.  
 
-UbuCon Korea is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. UbuCon Korea 2023 was successfully held last year on September 9 at Microsoft Korea with 151 attendees, with the theme of "Ubuntu for Developer Productivity". Following the success of last year's event, UbuCon Korea 2023 will be held on August 10 at the same venue as last year's event, with a variety of programs organized around the theme of "Deploy with Ubuntu"!
+**UbuCon Korea** is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. UbuCon Korea 2023 was successfully held last year on September 9 at Microsoft Korea with 151 attendees, with the theme of "Ubuntu for Developer Productivity". Following the success of last year's event, UbuCon Korea 2023 will be held on August 10 at the same venue as last year's event, with a variety of programs organized around the theme of "Deploy with Ubuntu"!
 
 
 ## Event overview
