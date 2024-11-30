@@ -164,21 +164,13 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
   <p  style="flex: 1"><b>50%+</b><br>2 Years+<br>career</p>
   <p  style="flex: 1"><b>60%+</b><br>IT related<br>profession</p>
 </div>
+
+### Participants by profession (2024)
 <pre class="mermaid mermaid-100h">
 %%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
 pie showData
-title Participants by profession (2024)
-    "Software Engineer(Web Backend)" : 20
-    "Software Engineer(Web Frontend)" : 8
-    "Software Engineer(Embedded & IoT)" : 4
-    "Software Engineer(OS, System & Kernel)" : 5
-    "Software Engineer(Desktop Application)" : 7
-    "Software Engineer(Robotics)" : 10
-    "Cloud Engineer": 19
-    "DevOps Engineer": 9 
-    "SRE": 4
-    "Support Engineer": 2
-    "Solutions Architect": 3
+    "Software Engineer" : 54
+    "IT Infra & Operations": 37
     "AI/ML Engineer": 3
     "Researcher (Institute)": 2
     "Researcher (Enterprise)": 4
@@ -191,8 +183,29 @@ title Participants by profession (2024)
     "Officials": 5
     "Enterprisers": 2
     "Etc": 7
+</pre>
 
-
+---
+### Demographics breakdown - Software Engineers
+<pre class="mermaid mermaid-100h" style="height:43%">
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+pie showData
+    "Web Backend" : 20
+    "Web Frontend" : 8
+    "Embedded & IoT" : 4
+    "OS, System & Kernel" : 5
+    "Desktop Application" : 7
+    "Robotics" : 10
+</pre>
+### Demographics breakdown - IT Infra & Operations
+<pre class="mermaid mermaid-100h" style="height:43%">
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+pie showData
+    "Cloud Engineer": 19
+    "DevOps Engineer": 9 
+    "SRE": 4
+    "Support Engineer": 2
+    "Solutions Architect": 3
 </pre>
 
 ---
