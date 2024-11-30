@@ -269,7 +269,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
   <img src="./assets/sponsor_logos/elastic.svg">
 </div>
 
-**More then half** of our past sponsors already sponsored our evnet **twice or more.**
+**More than half** of our past sponsors have already sponsored our event **twice or more.**
 
 
 ---
