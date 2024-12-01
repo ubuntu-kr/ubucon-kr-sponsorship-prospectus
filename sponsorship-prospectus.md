@@ -67,13 +67,12 @@ Today, there are **two major annual events** that bring together people from the
 
 The main difference between the two events is that Canonical, the creator of Ubuntu, is largely involved with organizing the Ubuntu Summit, while UbuCon is a community-driven event that is **solely organized by the community.** These UbuCons are held in **different regions within a continent or country,** and today there are UbuCon NA @ SCaLE, UbuCon Europe, UbuCon Latin America, UbuCon Portugal, and UbuCon Asia.
 
-**UbuCon Korea** is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. UbuCon Korea 2023 was successfully held last year on September 9 at Microsoft Korea with 151 attendees, with the theme of "Ubuntu for Developer Productivity". Following the success of last year's event, UbuCon Korea 2024 will be held on August 10 at the same venue as last year's event, with a variety of programs organized around the theme of "Deploy with Ubuntu"!
+**UbuCon Korea** is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. Following successes of our previous editions on last 2 years at Microsoft Korea with 151 participants, UbuCon Korea 2025 will be held on August 9 at the same venue with diverse programs to celebrate 20 years of Ubuntu Korea Community!
 
 
 ## Event overview
 
 - **Name:** UbuCon Korea 2025
-- **Theme:** Deploy with Ubuntu
 - **Date:** August 9th, 2025 
 - **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F)
 - **Scale:** 150+ participants (Including speakers and staff)
