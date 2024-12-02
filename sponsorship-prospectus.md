@@ -294,7 +294,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 | --- | --- | --- | --- | --- | --- |
 | **Slots** | 1 | 1 | 2 | 4 | ∞ |
 | Price(KRW)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 |
-| Price(USD) | 4,592  | 2,296 | 1,224  | 612 | 382 |
+| Price(USD) | 4,444  | 2,222 | 1,185  | 592 | 370 |
 | **Logo exposures** |  |  |  |  |  |
 | Basic | O | O | O | O | O |
 | Recordings & Stage(or Podium) | O | O | X | X | X |
@@ -312,8 +312,8 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 - *0: VAT 10% is not included in this price.
 - *1: Sponsored sessions are also subject to Code of Conduct compliance and content team review, with no exceptions, and must be related to Ubuntu or related open source technologies. In addition, blatant marketing and sales pitches are prohibited. 
 - *2: Choose between a Workshop, a Talk and a BoF Session.
-- *3: Choose between a Talk and a BoF Session. Additional fee 300,000 KRW (Approsx 229 USD, VAT not included) is required to choose Workshop option.
-- *4: 1 slot available, and served as an Add-on with 200,000 KRW fee. (Approx 153 USD, VAT not included) First come first serve.
+- *3: Choose between a Talk and a BoF Session. Additional fee 300,000 KRW (Approsx 222 USD, VAT not included) is required to choose Workshop option.
+- *4: 1 slot available, and served as an Add-on with 200,000 KRW fee. (Approx 148 USD, VAT not included) First come first serve.
 
 ---
 # Sponsorship package details
