@@ -312,7 +312,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 - *0: VAT 10% is not included in this price.
 - *1: Sponsored sessions are also subject to Code of Conduct compliance and content team review, with no exceptions, and must be related to Ubuntu or related open source technologies. In addition, blatant marketing and sales pitches are prohibited. 
 - *2: Choose between a Workshop, a Talk and a BoF Session.
-- *3: Choose between a Talk and a BoF Session.
+- *3: Choose between a Talk and a BoF Session. Additional fee 300,000 KRW (Approsx 229 USD, VAT not included) is required to choose Workshop option.
 - *4: 1 slot available, and served as an Add-on with 200,000 KRW fee. (Approx 153 USD, VAT not included) First come first serve.
 
 ---
