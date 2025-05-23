@@ -42,7 +42,7 @@ paginate: true
 
 ![w:200](./assets/logo.svg)
 # UbuCon Korea 2025
-August 9
+August 10
 Microsoft Korea (13F)
 **Sponsorship prospectus**
 
@@ -73,7 +73,7 @@ The main difference between the two events is that Canonical, the creator of Ubu
 ## Event overview
 
 - **Name:** UbuCon Korea 2025
-- **Date:** August 9th, 2025 
+- **Date:** August 10th, 2025 
 - **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F)
 - **Scale:** 150+ participants (Including speakers and staff)
 - **Host:** Ubuntu Korea Community
