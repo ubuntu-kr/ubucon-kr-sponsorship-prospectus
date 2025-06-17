@@ -290,23 +290,23 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 
 # Sponsorship packages
 
-| **Package** | Diamond | Gold | Silver | Bronze | Supporter  |
-| --- | --- | --- | --- | --- | --- |
-| **Slots** | 1 | 1 | 2 | 4 | ∞ |
-| Price(KRW)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 |
-| Price(USD) | 4,444  | 2,222 | 1,185  | 592 | 370 |
-| **Logo exposures** |  |  |  |  |  |
-| Basic | O | O | O | O | O |
-| Recordings & Stage(or Podium) | O | O | X | X | X |
-| Badges & Swags | O | O | X | X | X |
-| **Tickets**  | Free 5 tickets | Free 4 tickets | Free 3 tickets | Free 2 tickets | 10% off for 5 tickets |
-| **Sponsored session**<sup>*1</sup> | Keynote & 1 Session<sup>*2</sup> |1 Session<sup>*3</sup> | Lightning talk (5min) | X | X |
-| **Sponsor booth** | 1.8m width | 1.8m width | 1.8m width<sup>*4</sup> | X | X |
-| **Marketing** |  |  |  |  |  |
-| Basic | O | O | O | O | O |
-| Marketing (Email) | Name+URL+Logo | Name+URL+Logo | Name+URL | Name+URL | Mention name only |
-| Marketing (Engagement) | O | O | O | O | X |
-| **Swag giveaway** | O | O | O | O | O |
+| **Package** | Diamond | Gold | Silver | Bronze | Supporter  | Community<sup>*5</sup> |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Slots** | 1 | 1 | 2 | 4 | ∞ | ∞ |
+| Price(KRW)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 | 100,000 |
+| Price(USD) | 4,444  | 2,222 | 1,185  | 592 | 370 | 74 |
+| **Logo exposures** |  |  |  |  |  | |
+| Basic | O | O | O | O | O | ㅒ |
+| Recordings & Stage(or Podium) | O | O | X | X | X | X |
+| Badges & Swags | O | O | X | X | X | X |
+| **Tickets**  | Free 5 tickets | Free 4 tickets | Free 3 tickets | Free 2 tickets | 10% off for 5 tickets | X |
+| **Sponsored session**<sup>*1</sup> | Keynote & 1 Session<sup>*2</sup> |1 Session<sup>*3</sup> | Lightning talk (5min) | X | X | X |
+| **Sponsor booth** | 1.8m width | 1.8m width | 1.8m width<sup>*4</sup> | X | X | Shared booth |
+| **Marketing** |  |  |  |  |  | |
+| Basic | O | O | O | O | O | O |
+| Marketing (Email) | Name+URL+Logo | Name+URL+Logo | Name+URL | Name+URL | Mention name only | X |
+| Marketing (Engagement) | O | O | O | O | X | X |
+| **Swag giveaway** | O | O | O | O | O | X |
 
 **Footnotes**
 - *0: VAT 10% is not included in this price.
@@ -314,6 +314,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 - *2: Choose between a Workshop, a Talk and a BoF Session.
 - *3: Choose between a Talk and a BoF Session. Additional fee 300,000 KRW (Approx 222 USD, VAT not included) is required to choose Workshop option.
 - *4: 2 slots available, and served as an Add-on with 200,000 KRW fee. (Approx 148 USD, VAT not included) First come first serve.
+- *5: Community level is only available for non-profit open source/IT/developer communities.
 
 ---
 # Sponsorship package details
