@@ -140,7 +140,8 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
 | **16:50** Lightning talks (20min) | |
 | **17:10** Closing (10min) | |
 
-Dokdo hall will be used as MiniDebConf 2026, which will be held on the same place at the same date. Check out MiniDebConf 2026's site for more details on Dokdo hall.
+<p>Dokdo hall will be used as MiniDebConf 2026, which will be held on the same place at the same date. Check out MiniDebConf 2026's site for more details on Dokdo hall.</p>
+
 ---
 
 # Who attends UbuCon Korea
