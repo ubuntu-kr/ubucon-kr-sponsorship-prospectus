@@ -262,31 +262,22 @@ pie showData
 <div class="imgrow">
   <img src="./assets/sponsor_logos/canonical.svg">
   <img src="./assets/sponsor_logos/topst.png">
-  <img src="./assets/sponsor_logos/ahnlabcloudmate.svg">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/naver_cloud.png">
   <img src="./assets/sponsor_logos/microsoft.png">
-  <img src="./assets/sponsor_logos/invesume.png">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/whatap.png">
-  <img src="./assets/sponsor_logos/nhncloud.png">
-  <img src="./assets/sponsor_logos/eventus.svg">
 </div>
 <div class="imgrow">
   <img src="./assets/sponsor_logos/grometric.svg">
-  <img src="./assets/sponsor_logos/OSCKorea.svg">
-  <img src="./assets/sponsor_logos/hanbit.svg">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/inflearn.svg">
-  <img src="./assets/sponsor_logos/elastic.svg">
   <img src="./assets/sponsor_logos/lablup.png">
+  <img src="./assets/sponsor_logos/whatap.png">
+
 </div>
 <div class="imgrow">
-  <img src="./assets/sponsor_logos/topst.png">
+  <img src="./assets/sponsor_logos/hanbit.svg">
   <img src="./assets/sponsor_logos/yozumit.png">
+  <img src="./assets/sponsor_logos/openinfrausergroupkorea.png">
+</div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/cppkorea.png">
+  <img src="./assets/sponsor_logos/golangkorea.png">
 </div>
 
 ---
