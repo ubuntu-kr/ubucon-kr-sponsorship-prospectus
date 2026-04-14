@@ -42,7 +42,7 @@ paginate: true
 
 ![w:200](./assets/logo.svg)
 # UbuCon Korea 2026
-August 10
+August 29
 Microsoft Korea (13F)
 **Sponsorship prospectus**
 
@@ -55,7 +55,7 @@ Microsoft Korea (13F)
 ---
 
 <!-- header: ![w:50](./assets/logo.svg) -->
-<!-- footer: https://2025.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
+<!-- footer: https://2026.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
 
@@ -128,7 +128,7 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
 | **10:30** Keynote (30min) | |
 | **11:00** Talk (30min) | **11:00** Workshop (90min) |
 | **11:30** Talk (20min + 10min break) | |
-| **11:00** Talk (30min) | |
+| **12:00** Talk (30min) | |
 | **12:30** Lunch break (60min) | |
 | **13:30** Talk (30min) | **13:30** Workshop (90min) |
 | **14:00** Talk (20min + 10min break) | |
@@ -290,11 +290,11 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 
 | **Package** | Diamond | Gold | Silver | Bronze | Supporter  | Community<sup>*5</sup> |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Slots** | 1 | 1 | 2 | 4 | ∞ | ∞ |
+| **Slots** | 1 | 2 | 2 | 4 | ∞ | ∞ |
 | Price(KRW)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 | 100,000 |
 | Price(USD) | 4,444  | 2,222 | 1,185  | 592 | 370 | 74 |
 | **Logo exposures** |  |  |  |  |  | |
-| Basic | O | O | O | O | O | ㅒ |
+| Basic | O | O | O | O | O | O |
 | Recordings & Stage(or Podium) | O | O | X | X | X | X |
 | Badges & Swags | O | O | X | X | X | X |
 | **Tickets**  | Free 5 tickets | Free 4 tickets | Free 3 tickets | Free 2 tickets | 10% off for 5 tickets | X |
@@ -353,7 +353,7 @@ Sponsor booths at the event are a great way to showcase your organization and en
 **Engagement:** We help sponsors interact with participants even after the event ends. If you don't request otherwise when registering as a sponsor, we can send a single email to participants with the text you requested.
 - At the time of sponsor registration, You may also choose to receive a list of participants who have given their consent to disclose their personal information to third parties instead of sending emails by us.
   - The items to be provided are the participant's name, affiliation, title (or profession), and email address. The information to be included in the privacy policy disclosed by the organizing committee through the website (who will receive the personal information, location (address), person in charge and contact information, purpose of use, and method of destruction upon expiration of the retention period) must be provided.
-  - The retention period of the personal information received will be until September 9, 2025 (1 year) and will be described in the organizer's privacy policy.
+  - The retention period of the personal information received will be until August 29, 2026 (1 year) and will be described in the organizer's privacy policy.
 
 ## Swag giveaway
 If you'd like, you can give out sponsor swag (stickers, t-shirts, eco-bags, mugs, etc.) to participants. You can send a small amount for a raffle, or you can send enough for all participants. We'll let you know how to do this separately.
@@ -409,7 +409,7 @@ Contact sponsorship team at
 sponsorship@ubuntu-kr.org 
 
 More details on this event can be found at
-https://2025.ubuntu-kr.org
+https://2026.ubuntu-kr.org
 
 <img src="./assets/UbuntuKrLogo.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
 <img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
