@@ -403,9 +403,9 @@ https://ubuntu.com/community/ethos/code-of-conduct
 
 # End of Document
 
-Thank you for consider sponsoring our event.
-For inquires and securing sponsorship,
-Contact sponsorship team at
+Thank you for considering sponsoring our event.
+For inquiries and securing sponsorship,
+Contact the sponsorship team at
 sponsorship@ubuntu-kr.org 
 
 More details on this event can be found at
