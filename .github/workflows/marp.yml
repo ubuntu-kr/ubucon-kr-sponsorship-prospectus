@@ -6,9 +6,9 @@ name: Compile PDF with Marp
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -33,22 +33,19 @@ jobs:
 
       - name: Compile PDF with Marp
         run: |
-          npm run build sponsorship-prospectus.md
-          npm run build sponsorship-prospectus-ko.md
+          npm run build sponsorship-prospectus-2026.md
+          npm run build sponsorship-prospectus-ko-2026.md
 
       - name: Compress PDF
         run: |
           sudo apt install -y ghostscript
-          ps2pdf sponsorship-prospectus.pdf sponsorship-prospectus-compressed.pdf
-          ps2pdf sponsorship-prospectus-ko.pdf sponsorship-prospectus-ko-compressed.pdf
+          ps2pdf sponsorship-prospectus-2026.pdf sponsorship-prospectus-compressed.pdf
+          ps2pdf sponsorship-prospectus-ko-2026.pdf sponsorship-prospectus-ko-compressed.pdf
           mkdir pdfs
           mv sponsorship-prospectus-compressed.pdf pdfs/
           mv sponsorship-prospectus-ko-compressed.pdf pdfs/
-          
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.4.3
         with:
           path: pdfs/*.pdf
-          
-          
