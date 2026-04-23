@@ -40,21 +40,21 @@ paginate: true
     }
 </style>
 
-![w:200](./assets/logo.svg)
-# UbuCon Korea 2026
+![w:200](./assets/logo.svg)  ![w:160](./assets/minidc-kr.svg)
+# UbuCon Korea X MiniDebConf Korea 2026
 2026년 8월 29일
 한국마이크로소프트 (13F)
 **후원 제안서**
 
 <img src="./assets/UbuntuKrLogoKr.svg" style="height: 50px;"/>
 
-<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/uck25people.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
 
 ---
 
-<!-- header: ![w:50](./assets/logo.svg) -->
+<!-- header: ![w:50](./assets/logo.svg) ![w:40](./assets/minidc-kr.svg) -->
 <!-- footer: https://2026.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
@@ -63,20 +63,20 @@ paginate: true
 
 캐노니컬(Canonical)과 전세계 사람들로 구성된 우분투 커뮤니티가 함께 개발한 **우분투(Ubuntu)** 는 오늘날 가장 널리 쓰이는 리눅스 기반 오픈소스 운영체제 입니다. 20년 전 사용하기 쉬운 리눅스 데스크톱으로 시작한 우분투는, 혁신을 가속화하고 운영을 뒷받침하는 동시에 더 많은 사람들에게 자유 소프트웨어(Free software)를 제공한다는 사명을 바탕으로, 오늘날 개인용 컴퓨터에서 클라우드 인프라에 이르기까지 수백만 개의 디바이스를 구동하며 AI, 클라우드 컴퓨팅, IoT 및 기업 솔루션의 기술 발전의 기반이 되고 있습니다.
 
-오늘날 전 세계 우분투 커뮤니티의 사람들이 모여 우분투 생태계의 다양한 프로젝트와 사례를 공유하는 **두 가지 주요 연례 행사**로, **Ubuntu Summit**과 여러 지역에서 열리는 **UbuCon**이 있습니다.
+**UbuCon Korea**는 한국 내 우분투 프로젝트 기여자와 사용자를 모으는 연중 가장 큰 국내 우분투 커뮤니티 행사로, 대면 행사로는 서울에서 처음 열렸던 UbuCon Asia 2022에 이은 스핀오프로 시작 되었습니다. 지난 3년간 한국마이크로소프트에서 160명의 참가자와 함께 성황리에 개최된 UbuCon Korea 2023, UbuCon Korea 2024, UbuCon Korea 2025에 이어, 이번에 개최되는 UbuCon Korea 2026는 8월 29일 동일한 장소에서 MiniDebConf Korea와 함께 다양한 프로그램으로 구성 될 예정입니다!
 
-두 행사의 가장 큰 차이점 이라면, Ubuntu Summit은 우분투를 개발한 캐노니컬에서 준비를 주도하는 반면, UbuCon은 커뮤니티가 **전적으로 준비하여 주최하는 커뮤니티 주도형 행사라는 점입니다.** 이러한 UbuCon은 대륙이나 국가 내에서 다양한 지역을 순회하면서 열리며, 오늘날 UbuCon NA @ SCaLE, UbuCon Europe, UbuCon Latin America, UbuCon Portugal, UbuCon Asia 행사가 매년 열리고 있습니다.  
+# Debian & MiniDebConf Korea 소개
 
-**UbuCon Korea**는 한국 내 우분투 프로젝트 기여자와 사용자를 모으는 연중 가장 큰 국내 우분투 커뮤니티 행사로, 대면 행사로는 서울에서 처음 열렸던 UbuCon Asia 2022에 이은 스핀오프로 시작 되었습니다. 지난 3년간 한국마이크로소프트에서 151명의 참가자와 함께 성황리에 개최된 UbuCon Korea 2023, UbuCon Korea 2024, UbuCon Korea 2025에 이어, 이번에 개최되는 UbuCon Korea 2026는 8월 29일 동일한 장소에서 MiniDebConf 2026과 함께 다양한 프로그램으로 구성 될 예정입니다!
+**데비안(Debian)** 은 우분투(Ubuntu)와 리눅스 민트(Linux Mint) 등 120개 이상 파생 운영체제의 기반이 되는 100% 자유/오픈소스 소프트웨어로, 전 세계 1,000명 이상의 자발적인 개발자들에 의해 주도되는 비영리 프로젝트입니다. **MiniDebConf**는 이러한 데비안 공식 연례 컨퍼런스인 **DebConf**의 정신을 지역으로 확장한 소규모 지역 DebConf로, Debian과 자유 소프트웨어에 관심 있는 누구나 참여할 수 있습니다. 특히 올해 행사는 국내 최대 우분투 행사인 'UbuCon Korea 2026'과 공동 주최(Co-hosting)되어 그 의미가 더욱 깊습니다. 우분투가 데비안이라는 든든한 뿌리에서 탄생한 만큼, 두 커뮤니티가 한자리에 모여 데비안 생태계 전체를 아우르는 더욱 다양한 주제를 다루고 참가자들에게 한층 더 넓어진 기술적 경험과 교류의 장을 제공할 예정입니다.
 
 
 ## 행사 개요
 
-- **행사명:** UbuCon Korea 2026
+- **행사명:** UbuCon Korea X MiniDebConf Korea 2026
 - **날짜:** 2026년 8월 29일
 - **장소:** 한국마이크로소프트(더케이트윈타워 A동 13층) 예정
 - **규모:** 약 150명 이상 참가자 규모 (발표자 및 행사 관계자 포함)
-- **주최:** 우분투한국커뮤니티
+- **주최:** 우분투한국커뮤니티, Debian Korea
 - **입장권**
   - 일반 참가자 (유료)
   - 개인 후원 티켓/비즈니스 티켓 (유료)
@@ -96,7 +96,7 @@ paginate: true
 온라인 포럼 운영이나, 우분투 프로젝트 기여 등 온라인 기반 활동 뿐만 아니라. 커뮤니티 구성원이 만나 교류 할 수 있도록 주기적으로 오프라인 행사를 열고 있습니다. 이렇게 열리는 행사는 정기 총회(연말 회계 결산 후 3개월 이내), 정기 세미나, 실습 위주의 워크샵 행사, 그룹 스터디 활동 등이 있으며, 매년 큰 규모로 UbuCon 행사 또한 개최하여 다양한 분야의 우분투 사용자와 기여자를 위한 자리 또한 마련하고 있습니다.
 
 ## 해외 커뮤니티와의 교류
-Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, FOSS Nepal, Ubuntu India, FOSSASIA 등 다양한 해외 우분투 및 오픈소스 커뮤니티와 지속적으로 교류하고 있으며, 아시아 지역 우분투 커뮤니티 교류의 장인, UbuCon Asia 에도 참여하여 각 커뮤니티별 활동에 대해 공유도 하고 있습니다.
+Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, Ubuntu Nepal, Ubuntu India, FOSSASIA 등 다양한 해외 우분투 및 오픈소스 커뮤니티와 지속적으로 교류하고 있으며, 아시아 지역 우분투 커뮤니티 교류의 장인, UbuCon Asia 에도 참여하여 각 커뮤니티별 활동에 대해 공유도 하고 있습니다.
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
   <img src="./assets/forum.png" style="flex: 1">
@@ -121,25 +121,23 @@ Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, FO
 
 ## 시간표(초안)
 
-| 제주 | 동해 |
-| --- | --- |
-| **10:00** 개회사 (30분) | |
-| **10:30** 기조연설 (30분) | |
-| **11:00** 강연 (30분) | **11:00** 워크샵 (90분) |
-| **11:30** 강연 (20분 + 10분 휴식) | |
-| **12:00** 강연 (30분) | |
-| **12:30** 점심식사 (60분) | **12:30** 점심식사 (60분) |
-| **13:30** 강연 (30분) | **13:30** 워크샵 (90분) |
-| **14:00** 강연 (20분 + 10분 휴식) | |
-| **14:30** 강연 (30분) | **14:20** BoF (40분 + 10분 휴식) |
-| **15:00** 오후 휴식 (20분) | |
-| **15:20** 강연 (30분) | **15:20** 워크샵 (90분) |
-| **15:50** 강연 (20분 + 10분 휴식) | |
-| **16:20** 강연 (30분) | |
-| **16:50** 라이트닝 토크 (20분) | |
-| **17:10** 폐회사 (10분) | |
-
-<p>독도 홀의 경우 공동행사인, MiniDebConf 2026에서 사용될 예정입니다. 자세한 내용은 MiniDebConf 2026 행사 페이지를 참고해 주세요.</p>
+| 제주 (UbuCon) | 동해 (UbuCon) | 독도 (MiniDebConf) |
+| --- | --- | --- |
+| **10:00** 개회사 (30분) | | |
+| **10:30** 기조연설 (30분) | | |
+| **11:00** 강연 (30분) | **11:00** 워크샵 (90분) | **11:00** 강연 (30분) |
+| **11:30** 강연 (20분 + 10분 휴식) | | **11:30** 강연 (20분 + 10분 휴식) |
+| **11:00** 강연 (30분) | | **11:00** 강연 (30분) |
+| **12:30** 점심식사 (60분) | | |
+| **13:30** 강연 (30분) | **13:30** 워크샵 (90분) | **13:30** 강연 (30분) |
+| **14:00** 강연 (20분 + 10분 휴식) | | **14:00** 강연 (20분 + 10분 휴식) |
+| **14:30** 강연 (30분) | | **14:30** 강연 (30분) |
+| **15:00** 오후 휴식 (20분) | | |
+| **15:20** 강연 (30분) | **15:20** 워크샵 (90분) | **15:20** 강연 (30분) |
+| **15:50** 강연 (20분 + 10분 휴식) | | **15:50** 강연 (20분 + 10분 휴식) |
+| **16:20** 강연 (30분) | | **16:20** 강연 (30분) |
+| **16:50** 라이트닝 토크 (20분) | |  |
+| **17:10** 폐회사 (10분) | | |
 
 ---
 
@@ -156,17 +154,17 @@ Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, FO
   </div>
 </div>
 
-## 2024년 UbuCon Korea 행사 하이라이트
+## 2025년 UbuCon Korea 행사 하이라이트
 <div style="display: flex; flex-direction: row;">
-  <p  style="flex: 1"><b>180명</b><br>사전 등록</p>
-  <p  style="flex: 1"><b>192명</b><br>현장 참석</p>
-  <p  style="flex: 1"><b>18</b><br>세션</p>
-  <p  style="flex: 1"><b>~76%</b><br>처음 참석</p>
-  <p  style="flex: 1"><b>50%+</b><br>경력 2년 이상</p>
+  <p  style="flex: 1"><b>192명</b><br>사전 등록</p>
+  <p  style="flex: 1"><b>163명</b><br>현장 참석</p>
+  <p  style="flex: 1"><b>23</b><br>세션</p>
+  <p  style="flex: 1"><b>~74%</b><br>처음 참석</p>
+  <p  style="flex: 1"><b>~50%</b><br>경력 2년 이상</p>
   <p  style="flex: 1"><b>60%+</b><br>IT관련 직무</p>
 </div>
 
-### 2024년 UbuCon Korea 참가자 직무 분포
+### 2025년 UbuCon Korea 참가자 직무 분포
 <pre class="mermaid mermaid-100h">
 %%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
 pie showData
@@ -273,9 +271,10 @@ pie showData
 <div class="imgrow">
   <img src="./assets/sponsor_logos/hanbit.svg">
   <img src="./assets/sponsor_logos/yozumit.png">
-  <img src="./assets/sponsor_logos/openinfrausergroupkorea.png">
+  
 </div>
-<div class="imgrow">
+<div class="imgrow" ">
+<img src="./assets/sponsor_logos/openinfrausergroupkorea.png">
   <img src="./assets/sponsor_logos/cppkorea.png">
   <img src="./assets/sponsor_logos/golangkorea.png">
 </div>
@@ -290,7 +289,7 @@ pie showData
 | 금액(원)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 | 100,000 |
 | **로고 노출** |  |  |  |  |  ||
 | 기본 | O | O | O | O | O | O |
-| 녹화 & 무대(연단) | O | O | X | X | X | X |
+| 무대(연단) | O | O | X | X | X | X |
 | 명찰 & 기념품 | O | O | X | X | X | X |
 | **입장권**  | 5장 무료 | 4장 무료 | 3장 무료 | 2장 무료 | 5장 10% 할인 | X |
 | **후원사 세션**<sup>*1</sup> | 기조연설 & 세션 1회<sup>*2</sup> | 세션 1회<sup>*3</sup> | 라이트닝 토크 (5분) | X | X | X |
@@ -314,13 +313,13 @@ pie showData
 
 ## 로고 노출
 - **기본:** 후원사의 로고가 웹사이트, 행사장 라운지의 대형 현수막과 각 세션별 녹화 영상 인트로에 노출됩니다.
-- **녹화 & 무대(연단):** 강연 녹화 영상에서, 배너 영역에 후원사 로고가 노출되며. 회의실 연단 옆에 설치되는 현수막에도 후원사 로고가 노출됩니다.
+- **무대(연단):** 회의실 연단 옆에 설치되는 현수막에 후원사 로고가 노출됩니다.
 - **명찰 & 기념품:** 모든 참가자가 지급받는 명찰과 티셔츠 등 기념품에 후원사 로고가 노출됩니다. 명찰은 행사 중 참가자가 항시 착용하므로, 로고를 가장 자주 노출하는 효과적인 방법이며, 티셔츠 등 기념품을 통해 행사 이후에도 로고 노출이 가능합니다.
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
-  <img src="./assets/photowall.jpg" style="flex: 0.9">
-  <img src="./assets/booth.jpg" style="flex: 0.9">
-  <img src="./assets/sponsored_session.jpg" style="flex: 1.2">
+  <img src="./assets/photowall2025.jpg" style="flex: 0.9">
+  <img src="./assets/booth2025.jpg" style="flex: 0.9">
+  <img src="./assets/sponsored_session2025.jpg" style="flex: 1.2">
 </div>
 
 ## 입장권 지원
@@ -368,7 +367,7 @@ pie showData
 ## 후원사 등록 서류 발행
 - 견적서 - 후원사 내부 품의 절차에 필요하신 경우, 요청하시면 발행 해 드립니다.
 - 계약서 - 후원사측 필요에 따라 행사 후원 계약서를 작성합니다. 후원사 측에서 필요하지 않은 경우 생략 가능합니다.
-- 세금계산서(혹은 인보이스) - 계약서 작성 완료 후, 계약서가 생략된 경우 후원사 내부 품의 절차 완료 후 “우분투한국커뮤니티” 명의로 세금계산서를 발행 해 드립니다. 해외법인인 경우, 대행사를 통해 인보이스가 대신 발행됩니다.
+- 세금계산서(혹은 인보이스) - 계약서 작성 완료 후, 계약서가 생략된 경우 후원사 내부 품의 절차 완료 후 “우분투한국커뮤니티” 명의로 세금계산서를 발행 해 드립니다.
 
 ## 후원 비용 결제
 세금계산서(혹은 인보이스) 발급 완료 후, 안내드린 계좌로 부가세 10%를 포함한 후원 비용을 입금 해 주시면, 확인 후 후원사 등록 완료 처리 됩니다. 입금 기한은 계약서를 작성 한 경우, 계약서에 명시된 사항을 따르며. 계약서가 생략 된 경우, 세금계산서 발행일로부터 2주 이내 입금 해 주시면 됩니다. 기한 연장이 필요한 경우, 협의를 통해 연장 가능하며. 늦어도 행사 시작 3주 전 까지는 입금이 완료 되어야 합니다.
@@ -407,7 +406,7 @@ sponsorship@ubuntu-kr.org
 https://2026.ubuntu-kr.org
 
 <img src="./assets/UbuntuKrLogoKr.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
-<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/uck25people.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
 <!-- footer: false -->
