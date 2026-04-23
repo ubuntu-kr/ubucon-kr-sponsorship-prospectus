@@ -40,21 +40,21 @@ paginate: true
     }
 </style>
 
-![w:200](./assets/logo.svg)
-# UbuCon Korea 2026
-August 29
+![w:200](./assets/logo.svg)  ![w:160](./assets/minidc-kr.svg)
+# UbuCon Korea X MiniDebConf Korea 2026
+August 29, 2026
 Microsoft Korea (13F)
 **Sponsorship prospectus**
 
 <img src="./assets/UbuntuKrLogo.svg" style="height: 50px;"/>
 
-<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/uck25people.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
 
 ---
 
-<!-- header: ![w:50](./assets/logo.svg) -->
+<!-- header: ![w:50](./assets/logo.svg) ![w:40](./assets/minidc-kr.svg) -->
 <!-- footer: https://2026.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
@@ -63,20 +63,20 @@ Microsoft Korea (13F)
 
 **Ubuntu**, co-developed by the Ubuntu Community with people from worldwide and Canonical, stands as the world's leading open-source Linux-based operating system. While Ubuntu started as an easy-to-use Linux desktop 20 years ago, today, with its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
 
-Today, there are **two major annual events** that bring together people from the global Ubuntu community to share various projects and practices in the Ubuntu ecosystem: **UbuCon**(s) across different regions and the **Ubuntu Summit.**
+**UbuCon Korea** is the largest annual Ubuntu community event in Korea, bringing together contributors and users of Ubuntu projects. It began as a spin-off from UbuCon Asia 2022, the first in-person UbuCon Asia held in Seoul. Following three successful editions at Microsoft Korea in 2023, 2024, and 2025, UbuCon Korea 2026 will return on August 29 at the same venue, this time co-hosted with MiniDebConf Korea and featuring a broader range of programs.
 
-The main difference between the two events is that Canonical, the creator of Ubuntu, is largely involved with organizing the Ubuntu Summit, while UbuCon is a community-driven event that is **solely organized by the community.** These UbuCons are held in **different regions within a continent or country,** and today there are UbuCon NA @ SCaLE, UbuCon Europe, UbuCon Latin America, UbuCon Portugal, and UbuCon Asia.
+# About Debian & MiniDebConf Korea
 
-**UbuCon Korea** is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. Following successes of our previous editions on last 3 years at Microsoft Korea with 151 participants, UbuCon Korea 2026 will be held on August 29 at the same venue!
+**Debian**, the foundation of more than 120 derivative operating systems including Ubuntu and Linux Mint, is a 100% free and open source software project driven by more than 1,000 volunteer developers worldwide. **MiniDebConf** is a local-scale Debian conference inspired by the spirit of **DebConf**, Debian's annual international conference, and welcomes anyone interested in Debian and free software. This year's event is especially meaningful because it is co-hosted with UbuCon Korea 2026, the largest Ubuntu community event in Korea. As Ubuntu itself was born from the strong roots of Debian, the two communities will gather in one place to cover a wider range of topics across the Debian ecosystem and provide participants with a broader technical and networking experience.
 
 
 ## Event overview
 
-- **Name:** UbuCon Korea 2026
-- **Date:** August 29th, 2026 
-- **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F)
+- **Name:** UbuCon Korea X MiniDebConf Korea 2026
+- **Date:** August 29, 2026
+- **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F), planned
 - **Scale:** 150+ participants (Including speakers and staff)
-- **Host:** Ubuntu Korea Community
+- **Host:** Ubuntu Korea Community, Debian Korea
 - **Tickets**
   - Standard (Paid)
   - Individual patron/business (Paid)
@@ -122,25 +122,23 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
 
 ## Proposed timetable
 
-| Jeju Hall | Donghae Hall |
-| --- | --- |
-| **10:00** Opening (30min) | |
-| **10:30** Keynote (30min) | |
-| **11:00** Talk (30min) | **11:00** Workshop (90min) |
-| **11:30** Talk (20min + 10min break) | |
-| **12:00** Talk (30min) | |
-| **12:30** Lunch break (60min) | |
-| **13:30** Talk (30min) | **13:30** Workshop (90min) |
-| **14:00** Talk (20min + 10min break) | |
-| **14:30** Talk (30min) | **14:20** BoF (40min + 10min break) |
-| **15:00** Afternoon break (20min) | |
-| **15:20** Talk (30min) | **15:20** Workshop (90min) |
-| **15:50** Talk (20min + 10min break) | |
-| **16:20** Talk (30min) | |
-| **16:50** Lightning talks (20min) | |
-| **17:10** Closing (10min) | |
-
-<p>Dokdo hall will be used as MiniDebConf 2026, which will be held on the same place at the same date. Check out MiniDebConf 2026's site for more details on Dokdo hall.</p>
+| Jeju (UbuCon) | Donghae (UbuCon) | Dokdo (MiniDebConf) |
+| --- | --- | --- |
+| **10:00** Opening (30min) | | |
+| **10:30** Keynote (30min) | | |
+| **11:00** Talk (30min) | **11:00** Workshop (90min) | **11:00** Talk (30min) |
+| **11:30** Talk (20min + 10min break) | | **11:30** Talk (20min + 10min break) |
+| **12:00** Talk (30min) | | **12:00** Talk (30min) |
+| **12:30** Lunch break (60min) | | |
+| **13:30** Talk (30min) | **13:30** Workshop (90min) | **13:30** Talk (30min) |
+| **14:00** Talk (20min + 10min break) | | **14:00** Talk (20min + 10min break) |
+| **14:30** Talk (30min) | | **14:30** Talk (30min) |
+| **15:00** Afternoon break (20min) | | |
+| **15:20** Talk (30min) | **15:20** Workshop (90min) | **15:20** Talk (30min) |
+| **15:50** Talk (20min + 10min break) | | **15:50** Talk (20min + 10min break) |
+| **16:20** Talk (30min) | | **16:20** Talk (30min) |
+| **16:50** Lightning talks (20min) | | |
+| **17:10** Closing (10min) | | |
 
 ---
 
@@ -157,17 +155,17 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
   </div>
 </div>
 
-## Highlights from last year
+## Highlights from UbuCon Korea 2025
 <div style="display: flex; flex-direction: row;">
-  <p  style="flex: 1"><b>180</b><br>Registrations</p>
-  <p  style="flex: 1"><b>192</b><br>Attendees</p>
-  <p  style="flex: 1"><b>18</b><br>Sessions</p>
-  <p  style="flex: 1"><b>~76%</b><br>First time<br>attendee</p>
-  <p  style="flex: 1"><b>50%+</b><br>2 Years+<br>career</p>
+  <p  style="flex: 1"><b>192</b><br>Registrations</p>
+  <p  style="flex: 1"><b>163</b><br>Attendees</p>
+  <p  style="flex: 1"><b>23</b><br>Sessions</p>
+  <p  style="flex: 1"><b>~74%</b><br>First time<br>attendee</p>
+  <p  style="flex: 1"><b>~50%</b><br>2 Years+<br>career</p>
   <p  style="flex: 1"><b>60%+</b><br>IT related<br>profession</p>
 </div>
 
-### Participants by profession (2024)
+### Participants by profession (2025)
 <pre class="mermaid mermaid-100h">
 %%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
 pie showData
@@ -274,14 +272,12 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 <div class="imgrow">
   <img src="./assets/sponsor_logos/hanbit.svg">
   <img src="./assets/sponsor_logos/yozumit.png">
-  <img src="./assets/sponsor_logos/openinfrausergroupkorea.png">
 </div>
 <div class="imgrow">
+  <img src="./assets/sponsor_logos/openinfrausergroupkorea.png">
   <img src="./assets/sponsor_logos/cppkorea.png">
   <img src="./assets/sponsor_logos/golangkorea.png">
 </div>
-
-**More than half** of our past sponsors have already sponsored our event **twice or more.**
 
 
 ---
@@ -323,9 +319,9 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 - **Badges & Swags:** Your logo will be also exposed on badges and swags (such as T-shirts) that all participants will get. Badges are the most frequent and effective way to expose your logo, as they are worn by participants at all times during the event, and swags allow for logo exposure even after the event.
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
-  <img src="./assets/photowall.jpg" style="flex: 0.9">
-  <img src="./assets/booth.jpg" style="flex: 0.9">
-  <img src="./assets/sponsored_session.jpg" style="flex: 1.2">
+  <img src="./assets/photowall2025.jpg" style="flex: 0.9">
+  <img src="./assets/booth2025.jpg" style="flex: 0.9">
+  <img src="./assets/sponsored_session2025.jpg" style="flex: 1.2">
 </div>
 
 ## Tickets
@@ -412,7 +408,7 @@ More details on this event can be found at
 https://2026.ubuntu-kr.org
 
 <img src="./assets/UbuntuKrLogo.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
-<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/uck25people.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
 <!-- footer: false -->
