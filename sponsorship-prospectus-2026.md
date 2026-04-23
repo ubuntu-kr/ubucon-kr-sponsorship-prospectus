@@ -291,7 +291,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 | Price(USD) | 4,444  | 2,222 | 1,185  | 592 | 370 | 74 |
 | **Logo exposures** |  |  |  |  |  | |
 | Basic | O | O | O | O | O | O |
-| Recordings & Stage(or Podium) | O | O | X | X | X | X |
+| Stage(or Podium) | O | O | X | X | X | X |
 | Badges & Swags | O | O | X | X | X | X |
 | **Tickets**  | Free 5 tickets | Free 4 tickets | Free 3 tickets | Free 2 tickets | 10% off for 5 tickets | X |
 | **Sponsored session**<sup>*1</sup> | Keynote & 1 Session<sup>*2</sup> |1 Session<sup>*3</sup> | Lightning talk (5min) | X | X | X |
@@ -315,7 +315,7 @@ By joining the event as a sponsor, you'll not only help us achieve our goals, bu
 
 ## Logo exposure
 - **Basic:** Your logo will be exposed on our website, a large photo wall that will be installed on the lounge, and intro part of each session recordings.
-- **Recordings & Stage(or Podium):** Your logo will be also exposed on banner areas of each session recordings, and banners inside the conference room which will be installed next to the stage.
+- **Stage(or Podium):** Your logo will be also exposed on banners inside the conference room which will be installed next to the stage.
 - **Badges & Swags:** Your logo will be also exposed on badges and swags (such as T-shirts) that all participants will get. Badges are the most frequent and effective way to expose your logo, as they are worn by participants at all times during the event, and swags allow for logo exposure even after the event.
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
@@ -369,7 +369,7 @@ Please select your preferred sponsorship package from the ones listed above and 
 ## Issue required documents for registration 
 - Quotation - In case you need to submit a purchase order (PO) in your company and get approval.
 - Sponsorship agreement - Complete the event sponsorship agreement as required by the sponsor. Can be omitted if not required by the sponsor.
-- Tax Invoice(or Invoice) - After completion of the contract, or if the contract is omitted, we will issue a tax invoice under the name of "Ubuntu Korea Community" after completion of the sponsor's internal approval process. If you are an overseas corporation, an invoice will be issued through our fiscal host  instead.
+- Tax Invoice(or Invoice) - After completion of the contract, or if the contract is omitted, we will issue a tax invoice under the name of "Ubuntu Korea Community" after completion of the sponsor's internal approval process. 
 
 ## Make payment
 After the tax invoice (or invoice) is issued, please deposit the sponsorship fee including 10% VAT to the bank account provided, and the sponsor registration will be completed after confirmation. If a contract has been signed, the deadline will be as specified in the contract. If a contract has skipped, the deadline will be 2 weeks from the date of the tax invoice (or invoice) issued. If you need to extend the deadline, it can be extended by agreement. The deposit must be completed no later than 3 weeks before the start of the event.
