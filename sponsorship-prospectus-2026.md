@@ -110,7 +110,7 @@ We continue to interact with various overseas Ubuntu and open source communities
 # The venue & Proposed timetable
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
-  <img src="./assets/aws1.jpg" style="flex: 1">
+  <img src="./assets/aws1.png" style="flex: 1">
   <img src="./assets/aws2.jpg" style="flex: 1">
   <img src="./assets/aws3.jpg" style="flex: 1">
 </div>

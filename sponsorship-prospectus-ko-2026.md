@@ -109,7 +109,7 @@ Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, Ub
 # 행사장 및 시간표
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
-    <img src="./assets/aws1.jpg" style="flex: 1">
+    <img src="./assets/aws1.png" style="flex: 1">
     <img src="./assets/aws2.jpg" style="flex: 1">
     <img src="./assets/aws3.jpg" style="flex: 1">
 </div>
