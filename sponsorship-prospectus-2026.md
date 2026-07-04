@@ -118,7 +118,7 @@ We continue to interact with various overseas Ubuntu and open source communities
 ## The venue
 **AWS Korea (CENTERFIELD EAST 18F)**
 
-AWS Korea is located on the 18th floor of CENTERFIELD EAST, near Yeoksam Station. It has a conference room with a total capacity of 110 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
+AWS Korea is located on the 18th floor of CENTERFIELD EAST, near Yeoksam Station. It has a conference room with a total capacity of 150 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
 
 ## Proposed timetable
 
