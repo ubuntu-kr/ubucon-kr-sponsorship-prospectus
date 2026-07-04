@@ -110,15 +110,15 @@ We continue to interact with various overseas Ubuntu and open source communities
 # The venue & Proposed timetable
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
-  <img src="./assets/venue1.jpg" style="flex: 1">
-  <img src="./assets/venue2.jpg" style="flex: 1">
-  <img src="./assets/venue3.jpg" style="flex: 1">
+  <img src="./assets/aws1.jpg" style="flex: 1">
+  <img src="./assets/aws2.jpg" style="flex: 1">
+  <img src="./assets/aws3.jpg" style="flex: 1">
 </div>
 
 ## The venue
-**Microsoft Korea (The K Twin Tower - Building A 13F)**
+**AWS Korea (CENTERFIELD EAST 18F)**
 
-Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, near Gwanghwamun Station. It has a conference room with a total capacity of 110 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
+AWS Korea is located on the 18th floor of CENTERFIELD EAST, near Yeoksam Station. It has a conference room with a total capacity of 110 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
 
 ## Proposed timetable
 

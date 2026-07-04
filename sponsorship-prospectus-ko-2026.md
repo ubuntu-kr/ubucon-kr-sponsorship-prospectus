@@ -43,7 +43,7 @@ paginate: true
 ![w:200](./assets/logo.svg)  ![w:160](./assets/minidc-kr.svg)
 # UbuCon Korea X MiniDebConf Korea 2026
 2026년 8월 29일
-한국마이크로소프트 (13F)
+AWS Korea (센터필드 EAST 18층)
 **후원 제안서**
 
 <img src="./assets/UbuntuKrLogoKr.svg" style="height: 50px;"/>
@@ -74,7 +74,7 @@ paginate: true
 
 - **행사명:** UbuCon Korea X MiniDebConf Korea 2026
 - **날짜:** 2026년 8월 29일
-- **장소:** 한국마이크로소프트(더케이트윈타워 A동 13층) 예정
+- **장소:** AWS Korea (센터필드 EAST 18층)
 - **규모:** 약 150명 이상 참가자 규모 (발표자 및 행사 관계자 포함)
 - **주최:** 우분투한국커뮤니티, Debian Korea
 - **입장권**
@@ -109,14 +109,14 @@ Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, Ub
 # 행사장 및 시간표
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
-  <img src="./assets/venue1.jpg" style="flex: 1">
-  <img src="./assets/venue2.jpg" style="flex: 1">
-  <img src="./assets/venue3.jpg" style="flex: 1">
+    <img src="./assets/aws1.jpg" style="flex: 1">
+    <img src="./assets/aws2.jpg" style="flex: 1">
+    <img src="./assets/aws3.jpg" style="flex: 1">
 </div>
 
 ## 행사장
-**한국마이크로소프트(더케이트윈타워 A동 13층)**
-행사가 열릴 장소인 한국마이크로소프트는, 광화문역 근처에 있는 더케이트윈타워 A동 13층에 위치해 있으며. 총 110명의 인원을 수용 가능한 회의실 및 등록 데스크, 참가자간 네트워킹 공간, 부스 운영, 케이터링도 가능한 라운지 공간도 구비되어 있습니다. 또한 회의실에는 자동 파티션이 있어, 키노트 진행시에는 모두 개방하여 하나의 회의실로 활용하고, 이후에는 파티션을 설치하여 강연과 워크샵 프로그램을 동시에 운영하는 등 유연하게 활용할 수 있습니다. 
+**AWS Korea (센터필드 EAST 18층)**
+행사가 열릴 장소인 AWS Korea, 역삼역 근처에 있는 센터필드 EAST 18층에 위치해 있으며. 총 150명의 인원을 수용 가능한 회의실 및 등록 데스크, 참가자간 네트워킹 공간, 부스 운영, 케이터링도 가능한 라운지 공간도 구비되어 있습니다. 또한 회의실에는 자동 파티션이 있어, 키노트 진행시에는 모두 개방하여 하나의 회의실로 활용하고, 이후에는 파티션을 설치하여 강연과 워크샵 프로그램을 동시에 운영하는 등 유연하게 활용할 수 있습니다. 
 
 
 ## 시간표(초안)
