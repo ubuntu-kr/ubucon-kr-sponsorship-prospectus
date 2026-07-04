@@ -43,7 +43,7 @@ paginate: true
 ![w:200](./assets/logo.svg)  ![w:160](./assets/minidc-kr.svg)
 # UbuCon Korea X MiniDebConf Korea 2026
 August 29, 2026
-Microsoft Korea (13F)
+AWS Korea (CENTERFIELD EAST 18F)
 **Sponsorship prospectus**
 
 <img src="./assets/UbuntuKrLogo.svg" style="height: 50px;"/>
@@ -74,7 +74,7 @@ Microsoft Korea (13F)
 
 - **Name:** UbuCon Korea X MiniDebConf Korea 2026
 - **Date:** August 29, 2026
-- **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F), planned
+- **Venue:** AWS Korea (CENTERFIELD EAST 18F)
 - **Scale:** 150+ participants (Including speakers and staff)
 - **Host:** Ubuntu Korea Community, Debian Korea
 - **Tickets**
